@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://iimg.su/i/D4Eu7r"  />
+</div>
 
-<!--
-**makdonoldc/makdonoldc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">обо мне (но подробней)<br><br>Из информации более приближенной к жизни могу подметить что мне 18 лет. Я могу поддержать разговор на любую тему, кроме НСФВ (и уж тем более если мы мало знакомы !!!)<br>Вы можете обращаться ко мне как угодно, на ВЫ, на ТЫ (мне вообще без разницы) главное .  <br> <br><br><br><br><br>       мая крутая онлайн жизнь👀👀👀<br><br>|Я шарю за довольно огромное количество фд по типу eddsworld, роблокс фд, майнкрафт арг и всякие разные игрульки по тиму dmc и возможно detroit become human.<br><br><br><br>||сейчас в основном сижу в таких фд как : MineShield, DSMP, AvA и AvM и т.д.||</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="center">На этом все, спосибо за внимание👀👀👀❤❤❤❤🥞🥞🥞</p>
+
+###
+
+<div align="center">
+  <img height="300" src="https://tenor.com/ru/view/minecraft-pwgood-rap-faradey-mineshield-gif-14889614647058541279"  />
+</div>
+
+###
